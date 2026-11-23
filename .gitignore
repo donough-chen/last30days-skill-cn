@@ -10,3 +10,7 @@ mise.toml
 dist/
 build/
 .env
+
+# 本地生成产物与项目数据（GitHub Actions 每次运行会重新生成 site/）
+site/
+.workbuddy/
